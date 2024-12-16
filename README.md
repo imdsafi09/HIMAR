@@ -1,4 +1,4 @@
-# HIMARE
+# HIMAR
 
 **HIMAR: Human-Informed Map Augmentation with Panoramic LIDAR Imaging for Enhanced Robotic Search-and-Rescue**
 
