@@ -11,3 +11,7 @@ HIMAR is a novel framework designed to enhance robotic search and rescue (SAR) o
 ---
 
 
+## 3D Data visualization
+```bash
+python3 viz_kitti_3d_labels.py   --velodyne-dir /media/imad/908a11c3-5e3f-47d4-9d8e-cfafbebcfe31/home/imad/Response_to_reviewe_HIMAR/3D_preparation/dataset/training/velodyne   --label-dir /media/imad/908a11c3-5e3f-47d4-9d8e-cfafbebcfe31/home/imad/Response_to_reviewe_HIMAR/3D_preparation/dataset/training/label_2   --range-m 50   --per-box-color   --bg 1 1 1
+```
